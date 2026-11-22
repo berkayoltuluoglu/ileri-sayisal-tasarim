@@ -1,0 +1,17 @@
+# OpenLane outputs
+runs/
+
+# Simulation outputs
+*.vcd
+*.vvp
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
